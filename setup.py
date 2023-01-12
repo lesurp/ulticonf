@@ -10,4 +10,5 @@ setup(
     author_email="",
     url="https://github.com/lesurp/ulticonf",
     packages=["ulticonf"],
+    license="MIT",
 )
